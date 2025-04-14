@@ -29,8 +29,7 @@ The goal of this project was to analyze bike sales data to uncover business insi
 
 ## 📊 Dashboard Preview
 
-(https://imgur.com/a/Pf4LdVV)
-
+![Bike Store Dashboard](https://i.imgur.com/WJvE3rA.png)
 
 ---
 
